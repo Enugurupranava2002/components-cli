@@ -1,0 +1,15 @@
+{
+  "name": "login",
+  "inputs": [
+    {
+      "name": "username",
+      "type": "text",
+      "value": "username"
+    },
+    {
+      "name": "password",
+      "type": "password",
+      "value": "password"
+    }
+  ]
+}
