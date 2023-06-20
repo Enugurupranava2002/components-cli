@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "A components generating cli",
   "author": "Pranav @Enugurupranava2002",
+  "type": "module",
   "bin": {
     "components": "./bin/run"
   },
