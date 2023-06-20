@@ -55,8 +55,8 @@
     ],
     "topicSeparator": " ",
     "topics": {
-      "hello": {
-        "description": "Say hello to the world and others"
+      "components": {
+        "description": "Generate components."
       }
     }
   },
