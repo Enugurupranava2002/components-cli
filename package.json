@@ -56,7 +56,7 @@
     "topicSeparator": " ",
     "topics": {
       "components": {
-        "description": "Generate components."
+        "description": "Generate components through cli."
       }
     }
   },
