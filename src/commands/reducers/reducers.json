@@ -1,0 +1,11 @@
+{
+  "name": "loginReducer",
+  "state": {
+    "username": {
+      "value": ""
+    },
+    "password": {
+      "value": ""
+    }
+  }
+}

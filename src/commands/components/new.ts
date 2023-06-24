@@ -1,7 +1,7 @@
 import { Args, Command, Flags } from "@oclif/core";
 import { Project } from "ts-morph";
 
-import params from "../../params.json";
+import params from "./component.json";
 
 // .\\bin\\dev components new "message" -n="custom"
 export default class ComponentsNew extends Command {
